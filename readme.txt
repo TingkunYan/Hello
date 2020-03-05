@@ -1,6 +1,6 @@
 Git is a version control system
 Git is free softwareddd1133
-<<<<<<< HEAD
+<<<<<<<
 Git is free softwareddd112224466
 =======
 Git is free softwareddd112224455
